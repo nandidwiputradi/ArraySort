@@ -1,0 +1,14 @@
+D:\asp\ArraySort\ArraySort\obj\Debug\ArraySort.API.csprojResolveAssemblyReference.cache
+D:\asp\ArraySort\ArraySort\obj\Debug\ArraySort.dll
+D:\asp\ArraySort\ArraySort\obj\Debug\ArraySort.pdb
+D:\asp\ArraySort\ArraySort\bin\ArraySort.dll.config
+D:\asp\ArraySort\ArraySort\bin\ArraySort.dll
+D:\asp\ArraySort\ArraySort\bin\ArraySort.pdb
+D:\asp\ArraySort\ArraySort\bin\Newtonsoft.Json.dll
+D:\asp\ArraySort\ArraySort\bin\Routing.dll
+D:\asp\ArraySort\ArraySort\bin\System.Net.Http.Formatting.dll
+D:\asp\ArraySort\ArraySort\bin\System.Web.Http.dll
+D:\asp\ArraySort\ArraySort\bin\Routing.pdb
+D:\asp\ArraySort\ArraySort\bin\Newtonsoft.Json.xml
+D:\asp\ArraySort\ArraySort\bin\System.Net.Http.Formatting.xml
+D:\asp\ArraySort\ArraySort\bin\System.Web.Http.xml

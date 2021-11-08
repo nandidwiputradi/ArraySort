@@ -1,0 +1,21 @@
+﻿body {
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+    padding: 10px;
+}
+
+textarea {
+    height: 300px;
+    width: 600px;
+}
+
+td {
+    padding-left: 20px;
+    padding-right: 20px;
+}

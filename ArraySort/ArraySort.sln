@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySort.API", "ArraySort\ArraySort.API.csproj", "{D8872198-C0C1-4EC4-B403-F5EAD6F81546}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Routing", "..\Routing\Routing\Routing.csproj", "{85ABDCE2-7B31-4F54-82D5-D1AD6BD2B3E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySort.UI", "ArraySort.UI\ArraySort.UI.csproj", "{C70DFE96-B225-4735-9AA5-A4CF31A27AE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8872198-C0C1-4EC4-B403-F5EAD6F81546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8872198-C0C1-4EC4-B403-F5EAD6F81546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8872198-C0C1-4EC4-B403-F5EAD6F81546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8872198-C0C1-4EC4-B403-F5EAD6F81546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85ABDCE2-7B31-4F54-82D5-D1AD6BD2B3E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85ABDCE2-7B31-4F54-82D5-D1AD6BD2B3E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85ABDCE2-7B31-4F54-82D5-D1AD6BD2B3E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85ABDCE2-7B31-4F54-82D5-D1AD6BD2B3E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C70DFE96-B225-4735-9AA5-A4CF31A27AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C70DFE96-B225-4735-9AA5-A4CF31A27AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C70DFE96-B225-4735-9AA5-A4CF31A27AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C70DFE96-B225-4735-9AA5-A4CF31A27AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

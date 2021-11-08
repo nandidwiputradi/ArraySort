@@ -1,0 +1,17 @@
+D:\asp\ArraySort\ArraySort.UI\bin\ArraySort.UI.dll.config
+D:\asp\ArraySort\ArraySort.UI\bin\ArraySort.UI.dll
+D:\asp\ArraySort\ArraySort.UI\bin\ArraySort.UI.pdb
+D:\asp\ArraySort\ArraySort.UI\obj\Debug\ArraySort.UI.dll
+D:\asp\ArraySort\ArraySort.UI\obj\Debug\ArraySort.UI.pdb
+D:\asp\ArraySort\ArraySort.UI\bin\Microsoft.Web.Infrastructure.dll
+D:\asp\ArraySort\ArraySort.UI\bin\System.Web.Helpers.dll
+D:\asp\ArraySort\ArraySort.UI\bin\System.Web.Razor.dll
+D:\asp\ArraySort\ArraySort.UI\bin\System.Web.WebPages.Deployment.dll
+D:\asp\ArraySort\ArraySort.UI\bin\System.Web.WebPages.dll
+D:\asp\ArraySort\ArraySort.UI\bin\System.Web.WebPages.Razor.dll
+D:\asp\ArraySort\ArraySort.UI\bin\System.Web.Helpers.xml
+D:\asp\ArraySort\ArraySort.UI\bin\System.Web.Razor.xml
+D:\asp\ArraySort\ArraySort.UI\bin\System.Web.WebPages.xml
+D:\asp\ArraySort\ArraySort.UI\bin\System.Web.WebPages.Deployment.xml
+D:\asp\ArraySort\ArraySort.UI\bin\System.Web.WebPages.Razor.xml
+D:\asp\ArraySort\ArraySort.UI\obj\Debug\ArraySort.UI.csprojResolveAssemblyReference.cache
